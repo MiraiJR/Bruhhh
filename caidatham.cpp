@@ -5,6 +5,7 @@
 #include <string.h>
 using namespace std;
 
+//MiraiJR
 
 //khoi tao danh sach lien ket
 void KhoiTao(List &L)
